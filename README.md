@@ -4,7 +4,7 @@
 
 ---
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjamesmalcolm&theme=default&hide=stars)
+![Alex's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexjamesmalcolm&show_icons=true&include_all_commits=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjamesmalcolm&theme=default&layout=compact)
 <br>
 <!--
