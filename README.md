@@ -1,5 +1,3 @@
-[Portfolio](https://www.alexjamesmalcolm.com/)
-
 [Sourcerer](https://sourcerer.io/alexjamesmalcolm)
 
 ---
